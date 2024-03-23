@@ -10,3 +10,5 @@ Significance Testing of features and performing feature importance.
 4) Observed that most people rented bikes to commute to work/schools/uni, about 69% of bike rentings were seen on a working day.
 
 5) Keywords : Hypothesis Testing, Feature Engineering, Correlation, Pandas, Seaborn
+
+P.S. - Inferences from the analysis are within the python notebook.
